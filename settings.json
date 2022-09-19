@@ -6,9 +6,9 @@
   },
 
   "server": {
-    "ip": "localhost",
-    "port": 25565,
-    "version": "1.17.1"
+    "ip": "TheBest_Players.aternos.me:56047",
+    "port": 56047,
+    "version": "1.18.2"
   },
 
   "position": {
@@ -20,7 +20,7 @@
 
   "utils": {
     "auto-auth": {
-      "enabled": false,
+      "enabled": true,
       "password": "12345678"
     },
 
@@ -36,9 +36,9 @@
 
       "messages": [
         "I'm a regular player ",
-        "My owner is urFate_ ",
+        "My owner is Amir_3ta ",
         "I want be alone ",
-        "Visit my GitHub page! (urFate/Afk-Bot)"
+        "العب بدون تخريب لو سمحت علشان انا بتعصب بسرعة"
       ]
     },
 

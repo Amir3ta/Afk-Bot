@@ -1,49 +1,38 @@
-{
-  "bot-account": {
-    "username": "bot",
-    "password": "",
-    "type": "mojang"
   },
-
   "server": {
     "ip": "localhost",
     "port": 25565,
     "version": "1.17.1"
+    "ip": "TheBest_Players.aternos.me:56047",
+    "port": 56047,
+    "version": "1.19.2"
   },
 
   "position": {
-    "enabled": false,
-    "x": 0,
-    "y": 0,
-    "z": 0
-  },
-
-  "utils": {
-    "auto-auth": {
-      "enabled": false,
-      "password": "12345678"
+@@ -25,7 +25,7 @@
     },
 
     "anti-afk": {
       "enabled": false,
+      "enabled": true,
       "sneak": false
     },
 
-    "chat-messages": {
-      "enabled": false,
-      "repeat": true,
-      "repeat-delay": 60,
+@@ -36,14 +36,14 @@
 
       "messages": [
         "I'm a regular player ",
         "My owner is urFate_ ",
+        "My owner is Amir_3ta_ ",
         "I want be alone ",
         "Visit my GitHub page! (urFate/Afk-Bot)"
+        "Please play as good as you can "
       ]
     },
 
     "chat-log": true,
     "auto-reconnect": false,
+    "auto-reconnect": true,
     "auto-reconnect-delay": 5000
   }
 }
